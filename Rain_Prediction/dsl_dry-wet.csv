@@ -1,0 +1,1541 @@
+﻿ProvinceID,Province_Name,Year,DSL (Day),Season
+10,Bangkok,2011,58,Dry
+11,Samut Prakarn,2011,50,Dry
+12,Nonthaburi,2011,58,Dry
+13,Pathum Thani,2011,58,Dry
+14,Phra Nakhon Si Ayudhya,2011,58,Dry
+15,Ang Thong,2011,60,Dry
+16,Lopburi,2011,60,Dry
+17,Singburi,2011,60,Dry
+18,Chainat,2011,60,Dry
+19,Saraburi,2011,53,Dry
+20,Chonburi,2011,50,Dry
+21,Rayong,2011,50,Dry
+22,Chanthaburi,2011,53,Dry
+23,Trat,2011,38,Dry
+24,Chachoengsao,2011,59,Dry
+25,Prachinburi,2011,57,Dry
+26,Nakhon Nayok,2011,52,Dry
+27,Srakaeo,2011,57,Dry
+30,Nakhon Ratchasima,2011,50,Dry
+31,Burirum,2011,57,Dry
+32,Surin,2011,57,Dry
+33,Sisaket,2011,57,Dry
+34,Ubon Ratchathani,2011,63,Dry
+35,Yasothon,2011,58,Dry
+36,Chaiyaphum,2011,60,Dry
+37,Amnaj Charoen,2011,58,Dry
+38,Bung kan,2011,57,Dry
+39,Nong Bua Lamphu,2011,57,Dry
+40,Khon Kaen,2011,57,Dry
+41,Udon Thani,2011,57,Dry
+42,Loei,2011,67,Dry
+43,Nong Khai,2011,57,Dry
+44,Mahasarakham,2011,58,Dry
+45,Roi Et,2011,58,Dry
+46,Kalasin,2011,58,Dry
+47,Sakon Nakhon,2011,57,Dry
+48,Nakhon Phanom,2011,58,Dry
+49,Mukdahan,2011,58,Dry
+50,Chiang Mai,2011,46,Dry
+51,Lamphun,2011,49,Dry
+52,Lampang,2011,46,Dry
+53,Auttaradit,2011,45,Dry
+54,Phrae,2011,45,Dry
+55,Nan,2011,46,Dry
+56,Phayao,2011,46,Dry
+57,Chiangrai,2011,46,Dry
+58,Mae Hong Son,2011,49,Dry
+60,Nakhon Sawan,2011,60,Dry
+61,Uthai Thani,2011,34,Dry
+62,Kampaeng Phet,2011,45,Dry
+63,Tak,2011,45,Dry
+64,Sukhothai,2011,46,Dry
+65,Phitsanu Lok,2011,58,Dry
+66,Phichit,2011,59,Dry
+67,Phetchabun,2011,57,Dry
+70,Ratchaburi,2011,34,Dry
+71,Kanchanaburi,2011,34,Dry
+72,Suphan Buri,2011,60,Dry
+73,Nakhon Prathom,2011,60,Dry
+74,Samut Sakhon,2011,60,Dry
+75,Samut Songkham,2011,34,Dry
+76,Phetchaburi,2011,59,Dry
+77,Prachuap Khilikhan,2011,18,Dry
+80,Nakhon Si Thammarat,2011,11,Dry
+81,Krabi,2011,8,Dry
+82,Phang Nga,2011,8,Dry
+83,Phuket,2011,10,Dry
+84,Surat Thani,2011,11,Dry
+85,Ranong,2011,7,Dry
+86,Chumphon,2011,12,Dry
+90,Songkhla,2011,11,Dry
+91,Satun,2011,12,Dry
+92,Trang,2011,11,Dry
+93,Phatthalung,2011,12,Dry
+94,Pattani,2011,11,Dry
+95,Yala,2011,15,Dry
+96,Narathiwat,2011,15,Dry
+10,Bangkok,2012,64,Dry
+11,Samut Prakarn,2012,64,Dry
+12,Nonthaburi,2012,64,Dry
+13,Pathum Thani,2012,63,Dry
+14,Phra Nakhon Si Ayudhya,2012,54,Dry
+15,Ang Thong,2012,54,Dry
+16,Lopburi,2012,69,Dry
+17,Singburi,2012,54,Dry
+18,Chainat,2012,69,Dry
+19,Saraburi,2012,54,Dry
+20,Chonburi,2012,40,Dry
+21,Rayong,2012,52,Dry
+22,Chanthaburi,2012,39,Dry
+23,Trat,2012,14,Dry
+24,Chachoengsao,2012,24,Dry
+25,Prachinburi,2012,68,Dry
+26,Nakhon Nayok,2012,54,Dry
+27,Srakaeo,2012,40,Dry
+30,Nakhon Ratchasima,2012,65,Dry
+31,Burirum,2012,66,Dry
+32,Surin,2012,75,Dry
+33,Sisaket,2012,53,Dry
+34,Ubon Ratchathani,2012,52,Dry
+35,Yasothon,2012,66,Dry
+36,Chaiyaphum,2012,69,Dry
+37,Amnaj Charoen,2012,53,Dry
+38,Bung kan,2012,52,Dry
+39,Nong Bua Lamphu,2012,70,Dry
+40,Khon Kaen,2012,66,Dry
+41,Udon Thani,2012,70,Dry
+42,Loei,2012,70,Dry
+43,Nong Khai,2012,70,Dry
+44,Mahasarakham,2012,66,Dry
+45,Roi Et,2012,66,Dry
+46,Kalasin,2012,66,Dry
+47,Sakon Nakhon,2012,66,Dry
+48,Nakhon Phanom,2012,66,Dry
+49,Mukdahan,2012,66,Dry
+50,Chiang Mai,2012,55,Dry
+51,Lamphun,2012,65,Dry
+52,Lampang,2012,55,Dry
+53,Auttaradit,2012,55,Dry
+54,Phrae,2012,55,Dry
+55,Nan,2012,39,Dry
+56,Phayao,2012,35,Dry
+57,Chiangrai,2012,35,Dry
+58,Mae Hong Son,2012,54,Dry
+60,Nakhon Sawan,2012,40,Dry
+61,Uthai Thani,2012,51,Dry
+62,Kampaeng Phet,2012,70,Dry
+63,Tak,2012,65,Dry
+64,Sukhothai,2012,41,Dry
+65,Phitsanu Lok,2012,28,Dry
+66,Phichit,2012,40,Dry
+67,Phetchabun,2012,69,Dry
+70,Ratchaburi,2012,28,Dry
+71,Kanchanaburi,2012,52,Dry
+72,Suphan Buri,2012,53,Dry
+73,Nakhon Prathom,2012,63,Dry
+74,Samut Sakhon,2012,62,Dry
+75,Samut Songkham,2012,37,Dry
+76,Phetchaburi,2012,26,Dry
+77,Prachuap Khilikhan,2012,18,Dry
+80,Nakhon Si Thammarat,2012,6,Dry
+81,Krabi,2012,9,Dry
+82,Phang Nga,2012,9,Dry
+83,Phuket,2012,9,Dry
+84,Surat Thani,2012,9,Dry
+85,Ranong,2012,8,Dry
+86,Chumphon,2012,13,Dry
+90,Songkhla,2012,15,Dry
+91,Satun,2012,14,Dry
+92,Trang,2012,6,Dry
+93,Phatthalung,2012,14,Dry
+94,Pattani,2012,9,Dry
+95,Yala,2012,11,Dry
+96,Narathiwat,2012,12,Dry
+10,Bangkok,2013,44,Dry
+11,Samut Prakarn,2013,44,Dry
+12,Nonthaburi,2013,44,Dry
+13,Pathum Thani,2013,45,Dry
+14,Phra Nakhon Si Ayudhya,2013,45,Dry
+15,Ang Thong,2013,44,Dry
+16,Lopburi,2013,44,Dry
+17,Singburi,2013,44,Dry
+18,Chainat,2013,44,Dry
+19,Saraburi,2013,44,Dry
+20,Chonburi,2013,42,Dry
+21,Rayong,2013,31,Dry
+22,Chanthaburi,2013,43,Dry
+23,Trat,2013,14,Dry
+24,Chachoengsao,2013,42,Dry
+25,Prachinburi,2013,46,Dry
+26,Nakhon Nayok,2013,44,Dry
+27,Srakaeo,2013,46,Dry
+30,Nakhon Ratchasima,2013,44,Dry
+31,Burirum,2013,57,Dry
+32,Surin,2013,57,Dry
+33,Sisaket,2013,57,Dry
+34,Ubon Ratchathani,2013,57,Dry
+35,Yasothon,2013,57,Dry
+36,Chaiyaphum,2013,44,Dry
+37,Amnaj Charoen,2013,57,Dry
+38,Bung kan,2013,44,Dry
+39,Nong Bua Lamphu,2013,44,Dry
+40,Khon Kaen,2013,44,Dry
+41,Udon Thani,2013,46,Dry
+42,Loei,2013,44,Dry
+43,Nong Khai,2013,46,Dry
+44,Mahasarakham,2013,59,Dry
+45,Roi Et,2013,59,Dry
+46,Kalasin,2013,57,Dry
+47,Sakon Nakhon,2013,57,Dry
+48,Nakhon Phanom,2013,57,Dry
+49,Mukdahan,2013,57,Dry
+50,Chiang Mai,2013,55,Dry
+51,Lamphun,2013,55,Dry
+52,Lampang,2013,55,Dry
+53,Auttaradit,2013,44,Dry
+54,Phrae,2013,55,Dry
+55,Nan,2013,55,Dry
+56,Phayao,2013,57,Dry
+57,Chiangrai,2013,57,Dry
+58,Mae Hong Son,2013,55,Dry
+60,Nakhon Sawan,2013,44,Dry
+61,Uthai Thani,2013,44,Dry
+62,Kampaeng Phet,2013,44,Dry
+63,Tak,2013,44,Dry
+64,Sukhothai,2013,45,Dry
+65,Phitsanu Lok,2013,43,Dry
+66,Phichit,2013,43,Dry
+67,Phetchabun,2013,44,Dry
+70,Ratchaburi,2013,45,Dry
+71,Kanchanaburi,2013,41,Dry
+72,Suphan Buri,2013,44,Dry
+73,Nakhon Prathom,2013,45,Dry
+74,Samut Sakhon,2013,44,Dry
+75,Samut Songkham,2013,45,Dry
+76,Phetchaburi,2013,24,Dry
+77,Prachuap Khilikhan,2013,23,Dry
+80,Nakhon Si Thammarat,2013,13,Dry
+81,Krabi,2013,17,Dry
+82,Phang Nga,2013,17,Dry
+83,Phuket,2013,18,Dry
+84,Surat Thani,2013,17,Dry
+85,Ranong,2013,18,Dry
+86,Chumphon,2013,18,Dry
+90,Songkhla,2013,18,Dry
+91,Satun,2013,14,Dry
+92,Trang,2013,17,Dry
+93,Phatthalung,2013,13,Dry
+94,Pattani,2013,10,Dry
+95,Yala,2013,19,Dry
+96,Narathiwat,2013,19,Dry
+10,Bangkok,2014,60,Dry
+11,Samut Prakarn,2014,60,Dry
+12,Nonthaburi,2014,64,Dry
+13,Pathum Thani,2014,65,Dry
+14,Phra Nakhon Si Ayudhya,2014,60,Dry
+15,Ang Thong,2014,60,Dry
+16,Lopburi,2014,89,Dry
+17,Singburi,2014,60,Dry
+18,Chainat,2014,89,Dry
+19,Saraburi,2014,59,Dry
+20,Chonburi,2014,60,Dry
+21,Rayong,2014,50,Dry
+22,Chanthaburi,2014,50,Dry
+23,Trat,2014,50,Dry
+24,Chachoengsao,2014,60,Dry
+25,Prachinburi,2014,65,Dry
+26,Nakhon Nayok,2014,65,Dry
+27,Srakaeo,2014,64,Dry
+30,Nakhon Ratchasima,2014,65,Dry
+31,Burirum,2014,65,Dry
+32,Surin,2014,93,Dry
+33,Sisaket,2014,93,Dry
+34,Ubon Ratchathani,2014,64,Dry
+35,Yasothon,2014,82,Dry
+36,Chaiyaphum,2014,82,Dry
+37,Amnaj Charoen,2014,64,Dry
+38,Bung kan,2014,82,Dry
+39,Nong Bua Lamphu,2014,82,Dry
+40,Khon Kaen,2014,82,Dry
+41,Udon Thani,2014,82,Dry
+42,Loei,2014,82,Dry
+43,Nong Khai,2014,82,Dry
+44,Mahasarakham,2014,82,Dry
+45,Roi Et,2014,82,Dry
+46,Kalasin,2014,82,Dry
+47,Sakon Nakhon,2014,82,Dry
+48,Nakhon Phanom,2014,80,Dry
+49,Mukdahan,2014,82,Dry
+50,Chiang Mai,2014,95,Dry
+51,Lamphun,2014,95,Dry
+52,Lampang,2014,94,Dry
+53,Auttaradit,2014,61,Dry
+54,Phrae,2014,62,Dry
+55,Nan,2014,62,Dry
+56,Phayao,2014,94,Dry
+57,Chiangrai,2014,95,Dry
+58,Mae Hong Son,2014,95,Dry
+60,Nakhon Sawan,2014,89,Dry
+61,Uthai Thani,2014,88,Dry
+62,Kampaeng Phet,2014,63,Dry
+63,Tak,2014,94,Dry
+64,Sukhothai,2014,62,Dry
+65,Phitsanu Lok,2014,93,Dry
+66,Phichit,2014,89,Dry
+67,Phetchabun,2014,82,Dry
+70,Ratchaburi,2014,65,Dry
+71,Kanchanaburi,2014,65,Dry
+72,Suphan Buri,2014,94,Dry
+73,Nakhon Prathom,2014,94,Dry
+74,Samut Sakhon,2014,60,Dry
+75,Samut Songkham,2014,65,Dry
+76,Phetchaburi,2014,65,Dry
+77,Prachuap Khilikhan,2014,65,Dry
+80,Nakhon Si Thammarat,2014,51,Dry
+81,Krabi,2014,58,Dry
+82,Phang Nga,2014,40,Dry
+83,Phuket,2014,40,Dry
+84,Surat Thani,2014,58,Dry
+85,Ranong,2014,59,Dry
+86,Chumphon,2014,66,Dry
+90,Songkhla,2014,36,Dry
+91,Satun,2014,58,Dry
+92,Trang,2014,58,Dry
+93,Phatthalung,2014,51,Dry
+94,Pattani,2014,31,Dry
+95,Yala,2014,31,Dry
+96,Narathiwat,2014,22,Dry
+10,Bangkok,2015,22,Dry
+11,Samut Prakarn,2015,22,Dry
+12,Nonthaburi,2015,22,Dry
+13,Pathum Thani,2015,22,Dry
+14,Phra Nakhon Si Ayudhya,2015,22,Dry
+15,Ang Thong,2015,22,Dry
+16,Lopburi,2015,37,Dry
+17,Singburi,2015,38,Dry
+18,Chainat,2015,38,Dry
+19,Saraburi,2015,22,Dry
+20,Chonburi,2015,22,Dry
+21,Rayong,2015,22,Dry
+22,Chanthaburi,2015,20,Dry
+23,Trat,2015,18,Dry
+24,Chachoengsao,2015,22,Dry
+25,Prachinburi,2015,36,Dry
+26,Nakhon Nayok,2015,22,Dry
+27,Srakaeo,2015,36,Dry
+30,Nakhon Ratchasima,2015,35,Dry
+31,Burirum,2015,37,Dry
+32,Surin,2015,40,Dry
+33,Sisaket,2015,38,Dry
+34,Ubon Ratchathani,2015,37,Dry
+35,Yasothon,2015,42,Dry
+36,Chaiyaphum,2015,33,Dry
+37,Amnaj Charoen,2015,42,Dry
+38,Bung kan,2015,41,Dry
+39,Nong Bua Lamphu,2015,39,Dry
+40,Khon Kaen,2015,42,Dry
+41,Udon Thani,2015,60,Dry
+42,Loei,2015,39,Dry
+43,Nong Khai,2015,59,Dry
+44,Mahasarakham,2015,78,Dry
+45,Roi Et,2015,100,Dry
+46,Kalasin,2015,61,Dry
+47,Sakon Nakhon,2015,62,Dry
+48,Nakhon Phanom,2015,62,Dry
+49,Mukdahan,2015,37,Dry
+50,Chiang Mai,2015,69,Dry
+51,Lamphun,2015,69,Dry
+52,Lampang,2015,59,Dry
+53,Auttaradit,2015,59,Dry
+54,Phrae,2015,59,Dry
+55,Nan,2015,59,Dry
+56,Phayao,2015,61,Dry
+57,Chiangrai,2015,69,Dry
+58,Mae Hong Son,2015,69,Dry
+60,Nakhon Sawan,2015,37,Dry
+61,Uthai Thani,2015,22,Dry
+62,Kampaeng Phet,2015,37,Dry
+63,Tak,2015,57,Dry
+64,Sukhothai,2015,59,Dry
+65,Phitsanu Lok,2015,59,Dry
+66,Phichit,2015,36,Dry
+67,Phetchabun,2015,57,Dry
+70,Ratchaburi,2015,22,Dry
+71,Kanchanaburi,2015,22,Dry
+72,Suphan Buri,2015,22,Dry
+73,Nakhon Prathom,2015,22,Dry
+74,Samut Sakhon,2015,22,Dry
+75,Samut Songkham,2015,22,Dry
+76,Phetchaburi,2015,20,Dry
+77,Prachuap Khilikhan,2015,19,Dry
+80,Nakhon Si Thammarat,2015,31,Dry
+81,Krabi,2015,33,Dry
+82,Phang Nga,2015,34,Dry
+83,Phuket,2015,37,Dry
+84,Surat Thani,2015,31,Dry
+85,Ranong,2015,29,Dry
+86,Chumphon,2015,30,Dry
+90,Songkhla,2015,38,Dry
+91,Satun,2015,30,Dry
+92,Trang,2015,30,Dry
+93,Phatthalung,2015,30,Dry
+94,Pattani,2015,30,Dry
+95,Yala,2015,71,Dry
+96,Narathiwat,2015,37,Dry
+10,Bangkok,2016,36,Dry
+11,Samut Prakarn,2016,54,Dry
+12,Nonthaburi,2016,36,Dry
+13,Pathum Thani,2016,36,Dry
+14,Phra Nakhon Si Ayudhya,2016,63,Dry
+15,Ang Thong,2016,61,Dry
+16,Lopburi,2016,62,Dry
+17,Singburi,2016,62,Dry
+18,Chainat,2016,61,Dry
+19,Saraburi,2016,63,Dry
+20,Chonburi,2016,18,Dry
+21,Rayong,2016,18,Dry
+22,Chanthaburi,2016,18,Dry
+23,Trat,2016,18,Dry
+24,Chachoengsao,2016,33,Dry
+25,Prachinburi,2016,36,Dry
+26,Nakhon Nayok,2016,36,Dry
+27,Srakaeo,2016,47,Dry
+30,Nakhon Ratchasima,2016,67,Dry
+31,Burirum,2016,62,Dry
+32,Surin,2016,62,Dry
+33,Sisaket,2016,62,Dry
+34,Ubon Ratchathani,2016,61,Dry
+35,Yasothon,2016,61,Dry
+36,Chaiyaphum,2016,65,Dry
+37,Amnaj Charoen,2016,61,Dry
+38,Bung kan,2016,65,Dry
+39,Nong Bua Lamphu,2016,65,Dry
+40,Khon Kaen,2016,65,Dry
+41,Udon Thani,2016,65,Dry
+42,Loei,2016,64,Dry
+43,Nong Khai,2016,65,Dry
+44,Mahasarakham,2016,61,Dry
+45,Roi Et,2016,61,Dry
+46,Kalasin,2016,61,Dry
+47,Sakon Nakhon,2016,65,Dry
+48,Nakhon Phanom,2016,65,Dry
+49,Mukdahan,2016,61,Dry
+50,Chiang Mai,2016,51,Dry
+51,Lamphun,2016,30,Dry
+52,Lampang,2016,36,Dry
+53,Auttaradit,2016,36,Dry
+54,Phrae,2016,54,Dry
+55,Nan,2016,44,Dry
+56,Phayao,2016,44,Dry
+57,Chiangrai,2016,41,Dry
+58,Mae Hong Son,2016,49,Dry
+60,Nakhon Sawan,2016,61,Dry
+61,Uthai Thani,2016,60,Dry
+62,Kampaeng Phet,2016,60,Dry
+63,Tak,2016,27,Dry
+64,Sukhothai,2016,32,Dry
+65,Phitsanu Lok,2016,60,Dry
+66,Phichit,2016,91,Dry
+67,Phetchabun,2016,65,Dry
+70,Ratchaburi,2016,62,Dry
+71,Kanchanaburi,2016,61,Dry
+72,Suphan Buri,2016,60,Dry
+73,Nakhon Prathom,2016,62,Dry
+74,Samut Sakhon,2016,40,Dry
+75,Samut Songkham,2016,40,Dry
+76,Phetchaburi,2016,32,Dry
+77,Prachuap Khilikhan,2016,31,Dry
+80,Nakhon Si Thammarat,2016,29,Dry
+81,Krabi,2016,29,Dry
+82,Phang Nga,2016,29,Dry
+83,Phuket,2016,26,Dry
+84,Surat Thani,2016,29,Dry
+85,Ranong,2016,29,Dry
+86,Chumphon,2016,30,Dry
+90,Songkhla,2016,54,Dry
+91,Satun,2016,41,Dry
+92,Trang,2016,29,Dry
+93,Phatthalung,2016,35,Dry
+94,Pattani,2016,28,Dry
+95,Yala,2016,48,Dry
+96,Narathiwat,2016,27,Dry
+10,Bangkok,2017,57,Dry
+11,Samut Prakarn,2017,57,Dry
+12,Nonthaburi,2017,62,Dry
+13,Pathum Thani,2017,62,Dry
+14,Phra Nakhon Si Ayudhya,2017,62,Dry
+15,Ang Thong,2017,62,Dry
+16,Lopburi,2017,58,Dry
+17,Singburi,2017,62,Dry
+18,Chainat,2017,62,Dry
+19,Saraburi,2017,43,Dry
+20,Chonburi,2017,37,Dry
+21,Rayong,2017,37,Dry
+22,Chanthaburi,2017,34,Dry
+23,Trat,2017,34,Dry
+24,Chachoengsao,2017,21,Dry
+25,Prachinburi,2017,40,Dry
+26,Nakhon Nayok,2017,40,Dry
+27,Srakaeo,2017,37,Dry
+30,Nakhon Ratchasima,2017,33,Dry
+31,Burirum,2017,41,Dry
+32,Surin,2017,41,Dry
+33,Sisaket,2017,21,Dry
+34,Ubon Ratchathani,2017,34,Dry
+35,Yasothon,2017,28,Dry
+36,Chaiyaphum,2017,43,Dry
+37,Amnaj Charoen,2017,44,Dry
+38,Bung kan,2017,34,Dry
+39,Nong Bua Lamphu,2017,42,Dry
+40,Khon Kaen,2017,42,Dry
+41,Udon Thani,2017,42,Dry
+42,Loei,2017,43,Dry
+43,Nong Khai,2017,42,Dry
+44,Mahasarakham,2017,42,Dry
+45,Roi Et,2017,46,Dry
+46,Kalasin,2017,45,Dry
+47,Sakon Nakhon,2017,43,Dry
+48,Nakhon Phanom,2017,43,Dry
+49,Mukdahan,2017,45,Dry
+50,Chiang Mai,2017,65,Dry
+51,Lamphun,2017,64,Dry
+52,Lampang,2017,64,Dry
+53,Auttaradit,2017,43,Dry
+54,Phrae,2017,62,Dry
+55,Nan,2017,63,Dry
+56,Phayao,2017,63,Dry
+57,Chiangrai,2017,73,Dry
+58,Mae Hong Son,2017,65,Dry
+60,Nakhon Sawan,2017,43,Dry
+61,Uthai Thani,2017,35,Dry
+62,Kampaeng Phet,2017,43,Dry
+63,Tak,2017,62,Dry
+64,Sukhothai,2017,43,Dry
+65,Phitsanu Lok,2017,43,Dry
+66,Phichit,2017,43,Dry
+67,Phetchabun,2017,43,Dry
+70,Ratchaburi,2017,40,Dry
+71,Kanchanaburi,2017,36,Dry
+72,Suphan Buri,2017,57,Dry
+73,Nakhon Prathom,2017,57,Dry
+74,Samut Sakhon,2017,57,Dry
+75,Samut Songkham,2017,40,Dry
+76,Phetchaburi,2017,20,Dry
+77,Prachuap Khilikhan,2017,11,Dry
+80,Nakhon Si Thammarat,2017,17,Dry
+81,Krabi,2017,11,Dry
+82,Phang Nga,2017,11,Dry
+83,Phuket,2017,10,Dry
+84,Surat Thani,2017,15,Dry
+85,Ranong,2017,14,Dry
+86,Chumphon,2017,14,Dry
+90,Songkhla,2017,17,Dry
+91,Satun,2017,8,Dry
+92,Trang,2017,8,Dry
+93,Phatthalung,2017,15,Dry
+94,Pattani,2017,16,Dry
+95,Yala,2017,16,Dry
+96,Narathiwat,2017,16,Dry
+10,Bangkok,2018,21,Dry
+11,Samut Prakarn,2018,21,Dry
+12,Nonthaburi,2018,21,Dry
+13,Pathum Thani,2018,19,Dry
+14,Phra Nakhon Si Ayudhya,2018,19,Dry
+15,Ang Thong,2018,21,Dry
+16,Lopburi,2018,35,Dry
+17,Singburi,2018,33,Dry
+18,Chainat,2018,34,Dry
+19,Saraburi,2018,21,Dry
+20,Chonburi,2018,21,Dry
+21,Rayong,2018,17,Dry
+22,Chanthaburi,2018,16,Dry
+23,Trat,2018,16,Dry
+24,Chachoengsao,2018,21,Dry
+25,Prachinburi,2018,21,Dry
+26,Nakhon Nayok,2018,21,Dry
+27,Srakaeo,2018,20,Dry
+30,Nakhon Ratchasima,2018,33,Dry
+31,Burirum,2018,21,Dry
+32,Surin,2018,33,Dry
+33,Sisaket,2018,20,Dry
+34,Ubon Ratchathani,2018,20,Dry
+35,Yasothon,2018,26,Dry
+36,Chaiyaphum,2018,35,Dry
+37,Amnaj Charoen,2018,26,Dry
+38,Bung kan,2018,20,Dry
+39,Nong Bua Lamphu,2018,35,Dry
+40,Khon Kaen,2018,35,Dry
+41,Udon Thani,2018,35,Dry
+42,Loei,2018,35,Dry
+43,Nong Khai,2018,42,Dry
+44,Mahasarakham,2018,42,Dry
+45,Roi Et,2018,42,Dry
+46,Kalasin,2018,42,Dry
+47,Sakon Nakhon,2018,42,Dry
+48,Nakhon Phanom,2018,42,Dry
+49,Mukdahan,2018,42,Dry
+50,Chiang Mai,2018,26,Dry
+51,Lamphun,2018,31,Dry
+52,Lampang,2018,24,Dry
+53,Auttaradit,2018,32,Dry
+54,Phrae,2018,32,Dry
+55,Nan,2018,25,Dry
+56,Phayao,2018,26,Dry
+57,Chiangrai,2018,26,Dry
+58,Mae Hong Son,2018,43,Dry
+60,Nakhon Sawan,2018,34,Dry
+61,Uthai Thani,2018,20,Dry
+62,Kampaeng Phet,2018,35,Dry
+63,Tak,2018,35,Dry
+64,Sukhothai,2018,32,Dry
+65,Phitsanu Lok,2018,35,Dry
+66,Phichit,2018,35,Dry
+67,Phetchabun,2018,35,Dry
+70,Ratchaburi,2018,19,Dry
+71,Kanchanaburi,2018,18,Dry
+72,Suphan Buri,2018,21,Dry
+73,Nakhon Prathom,2018,21,Dry
+74,Samut Sakhon,2018,19,Dry
+75,Samut Songkham,2018,19,Dry
+76,Phetchaburi,2018,19,Dry
+77,Prachuap Khilikhan,2018,15,Dry
+80,Nakhon Si Thammarat,2018,11,Dry
+81,Krabi,2018,15,Dry
+82,Phang Nga,2018,15,Dry
+83,Phuket,2018,15,Dry
+84,Surat Thani,2018,11,Dry
+85,Ranong,2018,13,Dry
+86,Chumphon,2018,13,Dry
+90,Songkhla,2018,21,Dry
+91,Satun,2018,21,Dry
+92,Trang,2018,15,Dry
+93,Phatthalung,2018,13,Dry
+94,Pattani,2018,16,Dry
+95,Yala,2018,25,Dry
+96,Narathiwat,2018,25,Dry
+10,Bangkok,2019,48,Dry
+11,Samut Prakarn,2019,48,Dry
+12,Nonthaburi,2019,48,Dry
+13,Pathum Thani,2019,42,Dry
+14,Phra Nakhon Si Ayudhya,2019,42,Dry
+15,Ang Thong,2019,35,Dry
+16,Lopburi,2019,34,Dry
+17,Singburi,2019,35,Dry
+18,Chainat,2019,35,Dry
+19,Saraburi,2019,43,Dry
+20,Chonburi,2019,28,Dry
+21,Rayong,2019,23,Dry
+22,Chanthaburi,2019,39,Dry
+23,Trat,2019,39,Dry
+24,Chachoengsao,2019,48,Dry
+25,Prachinburi,2019,49,Dry
+26,Nakhon Nayok,2019,48,Dry
+27,Srakaeo,2019,49,Dry
+30,Nakhon Ratchasima,2019,44,Dry
+31,Burirum,2019,49,Dry
+32,Surin,2019,50,Dry
+33,Sisaket,2019,50,Dry
+34,Ubon Ratchathani,2019,63,Dry
+35,Yasothon,2019,70,Dry
+36,Chaiyaphum,2019,32,Dry
+37,Amnaj Charoen,2019,63,Dry
+38,Bung kan,2019,32,Dry
+39,Nong Bua Lamphu,2019,32,Dry
+40,Khon Kaen,2019,34,Dry
+41,Udon Thani,2019,30,Dry
+42,Loei,2019,32,Dry
+43,Nong Khai,2019,32,Dry
+44,Mahasarakham,2019,65,Dry
+45,Roi Et,2019,38,Dry
+46,Kalasin,2019,69,Dry
+47,Sakon Nakhon,2019,43,Dry
+48,Nakhon Phanom,2019,60,Dry
+49,Mukdahan,2019,70,Dry
+50,Chiang Mai,2019,37,Dry
+51,Lamphun,2019,33,Dry
+52,Lampang,2019,33,Dry
+53,Auttaradit,2019,37,Dry
+54,Phrae,2019,28,Dry
+55,Nan,2019,37,Dry
+56,Phayao,2019,37,Dry
+57,Chiangrai,2019,37,Dry
+58,Mae Hong Son,2019,37,Dry
+60,Nakhon Sawan,2019,35,Dry
+61,Uthai Thani,2019,35,Dry
+62,Kampaeng Phet,2019,37,Dry
+63,Tak,2019,37,Dry
+64,Sukhothai,2019,37,Dry
+65,Phitsanu Lok,2019,35,Dry
+66,Phichit,2019,35,Dry
+67,Phetchabun,2019,34,Dry
+70,Ratchaburi,2019,41,Dry
+71,Kanchanaburi,2019,34,Dry
+72,Suphan Buri,2019,34,Dry
+73,Nakhon Prathom,2019,42,Dry
+74,Samut Sakhon,2019,42,Dry
+75,Samut Songkham,2019,41,Dry
+76,Phetchaburi,2019,41,Dry
+77,Prachuap Khilikhan,2019,27,Dry
+80,Nakhon Si Thammarat,2019,38,Dry
+81,Krabi,2019,38,Dry
+82,Phang Nga,2019,39,Dry
+83,Phuket,2019,61,Dry
+84,Surat Thani,2019,39,Dry
+85,Ranong,2019,38,Dry
+86,Chumphon,2019,38,Dry
+90,Songkhla,2019,39,Dry
+91,Satun,2019,25,Dry
+92,Trang,2019,38,Dry
+93,Phatthalung,2019,39,Dry
+94,Pattani,2019,39,Dry
+95,Yala,2019,39,Dry
+96,Narathiwat,2019,39,Dry
+10,Bangkok,2020,56,Dry
+11,Samut Prakarn,2020,56,Dry
+12,Nonthaburi,2020,56,Dry
+13,Pathum Thani,2020,56,Dry
+14,Phra Nakhon Si Ayudhya,2020,56,Dry
+15,Ang Thong,2020,56,Dry
+16,Lopburi,2020,56,Dry
+17,Singburi,2020,56,Dry
+18,Chainat,2020,56,Dry
+19,Saraburi,2020,56,Dry
+20,Chonburi,2020,52,Dry
+21,Rayong,2020,52,Dry
+22,Chanthaburi,2020,52,Dry
+23,Trat,2020,31,Dry
+24,Chachoengsao,2020,56,Dry
+25,Prachinburi,2020,56,Dry
+26,Nakhon Nayok,2020,56,Dry
+27,Srakaeo,2020,56,Dry
+30,Nakhon Ratchasima,2020,56,Dry
+31,Burirum,2020,58,Dry
+32,Surin,2020,58,Dry
+33,Sisaket,2020,40,Dry
+34,Ubon Ratchathani,2020,48,Dry
+35,Yasothon,2020,58,Dry
+36,Chaiyaphum,2020,56,Dry
+37,Amnaj Charoen,2020,58,Dry
+38,Bung kan,2020,56,Dry
+39,Nong Bua Lamphu,2020,58,Dry
+40,Khon Kaen,2020,58,Dry
+41,Udon Thani,2020,58,Dry
+42,Loei,2020,56,Dry
+43,Nong Khai,2020,61,Dry
+44,Mahasarakham,2020,58,Dry
+45,Roi Et,2020,58,Dry
+46,Kalasin,2020,58,Dry
+47,Sakon Nakhon,2020,61,Dry
+48,Nakhon Phanom,2020,46,Dry
+49,Mukdahan,2020,58,Dry
+50,Chiang Mai,2020,48,Dry
+51,Lamphun,2020,49,Dry
+52,Lampang,2020,49,Dry
+53,Auttaradit,2020,52,Dry
+54,Phrae,2020,50,Dry
+55,Nan,2020,52,Dry
+56,Phayao,2020,48,Dry
+57,Chiangrai,2020,47,Dry
+58,Mae Hong Son,2020,48,Dry
+60,Nakhon Sawan,2020,56,Dry
+61,Uthai Thani,2020,56,Dry
+62,Kampaeng Phet,2020,46,Dry
+63,Tak,2020,46,Dry
+64,Sukhothai,2020,46,Dry
+65,Phitsanu Lok,2020,56,Dry
+66,Phichit,2020,56,Dry
+67,Phetchabun,2020,56,Dry
+70,Ratchaburi,2020,56,Dry
+71,Kanchanaburi,2020,52,Dry
+72,Suphan Buri,2020,56,Dry
+73,Nakhon Prathom,2020,56,Dry
+74,Samut Sakhon,2020,56,Dry
+75,Samut Songkham,2020,56,Dry
+76,Phetchaburi,2020,45,Dry
+77,Prachuap Khilikhan,2020,16,Dry
+80,Nakhon Si Thammarat,2020,11,Dry
+81,Krabi,2020,8,Dry
+82,Phang Nga,2020,11,Dry
+83,Phuket,2020,11,Dry
+84,Surat Thani,2020,7,Dry
+85,Ranong,2020,11,Dry
+86,Chumphon,2020,11,Dry
+90,Songkhla,2020,11,Dry
+91,Satun,2020,11,Dry
+92,Trang,2020,11,Dry
+93,Phatthalung,2020,11,Dry
+94,Pattani,2020,11,Dry
+95,Yala,2020,11,Dry
+96,Narathiwat,2020,11,Dry
+10,Bangkok,2011,4,Wet
+11,Samut Prakarn,2011,4,Wet
+12,Nonthaburi,2011,4,Wet
+13,Pathum Thani,2011,4,Wet
+14,Phra Nakhon Si Ayudhya,2011,4,Wet
+15,Ang Thong,2011,4,Wet
+16,Lopburi,2011,10,Wet
+17,Singburi,2011,7,Wet
+18,Chainat,2011,14,Wet
+19,Saraburi,2011,4,Wet
+20,Chonburi,2011,4,Wet
+21,Rayong,2011,4,Wet
+22,Chanthaburi,2011,2,Wet
+23,Trat,2011,2,Wet
+24,Chachoengsao,2011,2,Wet
+25,Prachinburi,2011,4,Wet
+26,Nakhon Nayok,2011,4,Wet
+27,Srakaeo,2011,5,Wet
+30,Nakhon Ratchasima,2011,4,Wet
+31,Burirum,2011,6,Wet
+32,Surin,2011,6,Wet
+33,Sisaket,2011,14,Wet
+34,Ubon Ratchathani,2011,14,Wet
+35,Yasothon,2011,14,Wet
+36,Chaiyaphum,2011,14,Wet
+37,Amnaj Charoen,2011,14,Wet
+38,Bung kan,2011,12,Wet
+39,Nong Bua Lamphu,2011,14,Wet
+40,Khon Kaen,2011,14,Wet
+41,Udon Thani,2011,14,Wet
+42,Loei,2011,14,Wet
+43,Nong Khai,2011,14,Wet
+44,Mahasarakham,2011,14,Wet
+45,Roi Et,2011,14,Wet
+46,Kalasin,2011,14,Wet
+47,Sakon Nakhon,2011,14,Wet
+48,Nakhon Phanom,2011,14,Wet
+49,Mukdahan,2011,14,Wet
+50,Chiang Mai,2011,8,Wet
+51,Lamphun,2011,8,Wet
+52,Lampang,2011,8,Wet
+53,Auttaradit,2011,11,Wet
+54,Phrae,2011,9,Wet
+55,Nan,2011,8,Wet
+56,Phayao,2011,8,Wet
+57,Chiangrai,2011,6,Wet
+58,Mae Hong Son,2011,8,Wet
+60,Nakhon Sawan,2011,11,Wet
+61,Uthai Thani,2011,4,Wet
+62,Kampaeng Phet,2011,5,Wet
+63,Tak,2011,4,Wet
+64,Sukhothai,2011,11,Wet
+65,Phitsanu Lok,2011,11,Wet
+66,Phichit,2011,11,Wet
+67,Phetchabun,2011,14,Wet
+70,Ratchaburi,2011,3,Wet
+71,Kanchanaburi,2011,3,Wet
+72,Suphan Buri,2011,4,Wet
+73,Nakhon Prathom,2011,3,Wet
+74,Samut Sakhon,2011,3,Wet
+75,Samut Songkham,2011,4,Wet
+76,Phetchaburi,2011,3,Wet
+77,Prachuap Khilikhan,2011,3,Wet
+80,Nakhon Si Thammarat,2011,7,Wet
+81,Krabi,2011,7,Wet
+82,Phang Nga,2011,5,Wet
+83,Phuket,2011,6,Wet
+84,Surat Thani,2011,4,Wet
+85,Ranong,2011,3,Wet
+86,Chumphon,2011,3,Wet
+90,Songkhla,2011,6,Wet
+91,Satun,2011,5,Wet
+92,Trang,2011,5,Wet
+93,Phatthalung,2011,6,Wet
+94,Pattani,2011,4,Wet
+95,Yala,2011,7,Wet
+96,Narathiwat,2011,7,Wet
+10,Bangkok,2012,7,Wet
+11,Samut Prakarn,2012,7,Wet
+12,Nonthaburi,2012,7,Wet
+13,Pathum Thani,2012,7,Wet
+14,Phra Nakhon Si Ayudhya,2012,7,Wet
+15,Ang Thong,2012,6,Wet
+16,Lopburi,2012,8,Wet
+17,Singburi,2012,7,Wet
+18,Chainat,2012,15,Wet
+19,Saraburi,2012,7,Wet
+20,Chonburi,2012,5,Wet
+21,Rayong,2012,4,Wet
+22,Chanthaburi,2012,5,Wet
+23,Trat,2012,3,Wet
+24,Chachoengsao,2012,5,Wet
+25,Prachinburi,2012,5,Wet
+26,Nakhon Nayok,2012,5,Wet
+27,Srakaeo,2012,5,Wet
+30,Nakhon Ratchasima,2012,9,Wet
+31,Burirum,2012,14,Wet
+32,Surin,2012,14,Wet
+33,Sisaket,2012,16,Wet
+34,Ubon Ratchathani,2012,16,Wet
+35,Yasothon,2012,15,Wet
+36,Chaiyaphum,2012,15,Wet
+37,Amnaj Charoen,2012,16,Wet
+38,Bung kan,2012,9,Wet
+39,Nong Bua Lamphu,2012,14,Wet
+40,Khon Kaen,2012,14,Wet
+41,Udon Thani,2012,14,Wet
+42,Loei,2012,15,Wet
+43,Nong Khai,2012,15,Wet
+44,Mahasarakham,2012,14,Wet
+45,Roi Et,2012,20,Wet
+46,Kalasin,2012,20,Wet
+47,Sakon Nakhon,2012,15,Wet
+48,Nakhon Phanom,2012,20,Wet
+49,Mukdahan,2012,20,Wet
+50,Chiang Mai,2012,3,Wet
+51,Lamphun,2012,6,Wet
+52,Lampang,2012,5,Wet
+53,Auttaradit,2012,14,Wet
+54,Phrae,2012,12,Wet
+55,Nan,2012,8,Wet
+56,Phayao,2012,10,Wet
+57,Chiangrai,2012,12,Wet
+58,Mae Hong Son,2012,5,Wet
+60,Nakhon Sawan,2012,8,Wet
+61,Uthai Thani,2012,5,Wet
+62,Kampaeng Phet,2012,5,Wet
+63,Tak,2012,4,Wet
+64,Sukhothai,2012,10,Wet
+65,Phitsanu Lok,2012,11,Wet
+66,Phichit,2012,9,Wet
+67,Phetchabun,2012,15,Wet
+70,Ratchaburi,2012,7,Wet
+71,Kanchanaburi,2012,5,Wet
+72,Suphan Buri,2012,6,Wet
+73,Nakhon Prathom,2012,6,Wet
+74,Samut Sakhon,2012,5,Wet
+75,Samut Songkham,2012,7,Wet
+76,Phetchaburi,2012,5,Wet
+77,Prachuap Khilikhan,2012,4,Wet
+80,Nakhon Si Thammarat,2012,12,Wet
+81,Krabi,2012,12,Wet
+82,Phang Nga,2012,9,Wet
+83,Phuket,2012,17,Wet
+84,Surat Thani,2012,7,Wet
+85,Ranong,2012,4,Wet
+86,Chumphon,2012,4,Wet
+90,Songkhla,2012,14,Wet
+91,Satun,2012,11,Wet
+92,Trang,2012,16,Wet
+93,Phatthalung,2012,12,Wet
+94,Pattani,2012,8,Wet
+95,Yala,2012,14,Wet
+96,Narathiwat,2012,8,Wet
+10,Bangkok,2013,7,Wet
+11,Samut Prakarn,2013,5,Wet
+12,Nonthaburi,2013,7,Wet
+13,Pathum Thani,2013,7,Wet
+14,Phra Nakhon Si Ayudhya,2013,6,Wet
+15,Ang Thong,2013,3,Wet
+16,Lopburi,2013,4,Wet
+17,Singburi,2013,4,Wet
+18,Chainat,2013,4,Wet
+19,Saraburi,2013,3,Wet
+20,Chonburi,2013,4,Wet
+21,Rayong,2013,3,Wet
+22,Chanthaburi,2013,3,Wet
+23,Trat,2013,5,Wet
+24,Chachoengsao,2013,3,Wet
+25,Prachinburi,2013,3,Wet
+26,Nakhon Nayok,2013,3,Wet
+27,Srakaeo,2013,3,Wet
+30,Nakhon Ratchasima,2013,4,Wet
+31,Burirum,2013,6,Wet
+32,Surin,2013,10,Wet
+33,Sisaket,2013,6,Wet
+34,Ubon Ratchathani,2013,6,Wet
+35,Yasothon,2013,6,Wet
+36,Chaiyaphum,2013,6,Wet
+37,Amnaj Charoen,2013,6,Wet
+38,Bung kan,2013,6,Wet
+39,Nong Bua Lamphu,2013,6,Wet
+40,Khon Kaen,2013,7,Wet
+41,Udon Thani,2013,6,Wet
+42,Loei,2013,7,Wet
+43,Nong Khai,2013,6,Wet
+44,Mahasarakham,2013,12,Wet
+45,Roi Et,2013,12,Wet
+46,Kalasin,2013,12,Wet
+47,Sakon Nakhon,2013,7,Wet
+48,Nakhon Phanom,2013,9,Wet
+49,Mukdahan,2013,13,Wet
+50,Chiang Mai,2013,7,Wet
+51,Lamphun,2013,8,Wet
+52,Lampang,2013,8,Wet
+53,Auttaradit,2013,6,Wet
+54,Phrae,2013,8,Wet
+55,Nan,2013,8,Wet
+56,Phayao,2013,8,Wet
+57,Chiangrai,2013,8,Wet
+58,Mae Hong Son,2013,7,Wet
+60,Nakhon Sawan,2013,6,Wet
+61,Uthai Thani,2013,2,Wet
+62,Kampaeng Phet,2013,6,Wet
+63,Tak,2013,6,Wet
+64,Sukhothai,2013,6,Wet
+65,Phitsanu Lok,2013,6,Wet
+66,Phichit,2013,6,Wet
+67,Phetchabun,2013,6,Wet
+70,Ratchaburi,2013,3,Wet
+71,Kanchanaburi,2013,2,Wet
+72,Suphan Buri,2013,7,Wet
+73,Nakhon Prathom,2013,9,Wet
+74,Samut Sakhon,2013,4,Wet
+75,Samut Songkham,2013,5,Wet
+76,Phetchaburi,2013,5,Wet
+77,Prachuap Khilikhan,2013,5,Wet
+80,Nakhon Si Thammarat,2013,6,Wet
+81,Krabi,2013,7,Wet
+82,Phang Nga,2013,4,Wet
+83,Phuket,2013,8,Wet
+84,Surat Thani,2013,4,Wet
+85,Ranong,2013,4,Wet
+86,Chumphon,2013,6,Wet
+90,Songkhla,2013,9,Wet
+91,Satun,2013,6,Wet
+92,Trang,2013,5,Wet
+93,Phatthalung,2013,6,Wet
+94,Pattani,2013,4,Wet
+95,Yala,2013,6,Wet
+96,Narathiwat,2013,6,Wet
+10,Bangkok,2014,4,Wet
+11,Samut Prakarn,2014,3,Wet
+12,Nonthaburi,2014,4,Wet
+13,Pathum Thani,2014,7,Wet
+14,Phra Nakhon Si Ayudhya,2014,7,Wet
+15,Ang Thong,2014,6,Wet
+16,Lopburi,2014,6,Wet
+17,Singburi,2014,7,Wet
+18,Chainat,2014,7,Wet
+19,Saraburi,2014,7,Wet
+20,Chonburi,2014,3,Wet
+21,Rayong,2014,3,Wet
+22,Chanthaburi,2014,3,Wet
+23,Trat,2014,3,Wet
+24,Chachoengsao,2014,3,Wet
+25,Prachinburi,2014,5,Wet
+26,Nakhon Nayok,2014,5,Wet
+27,Srakaeo,2014,4,Wet
+30,Nakhon Ratchasima,2014,5,Wet
+31,Burirum,2014,6,Wet
+32,Surin,2014,6,Wet
+33,Sisaket,2014,7,Wet
+34,Ubon Ratchathani,2014,8,Wet
+35,Yasothon,2014,5,Wet
+36,Chaiyaphum,2014,6,Wet
+37,Amnaj Charoen,2014,8,Wet
+38,Bung kan,2014,6,Wet
+39,Nong Bua Lamphu,2014,7,Wet
+40,Khon Kaen,2014,7,Wet
+41,Udon Thani,2014,7,Wet
+42,Loei,2014,6,Wet
+43,Nong Khai,2014,7,Wet
+44,Mahasarakham,2014,7,Wet
+45,Roi Et,2014,6,Wet
+46,Kalasin,2014,6,Wet
+47,Sakon Nakhon,2014,10,Wet
+48,Nakhon Phanom,2014,11,Wet
+49,Mukdahan,2014,10,Wet
+50,Chiang Mai,2014,6,Wet
+51,Lamphun,2014,7,Wet
+52,Lampang,2014,7,Wet
+53,Auttaradit,2014,7,Wet
+54,Phrae,2014,7,Wet
+55,Nan,2014,8,Wet
+56,Phayao,2014,8,Wet
+57,Chiangrai,2014,7,Wet
+58,Mae Hong Son,2014,6,Wet
+60,Nakhon Sawan,2014,6,Wet
+61,Uthai Thani,2014,6,Wet
+62,Kampaeng Phet,2014,6,Wet
+63,Tak,2014,6,Wet
+64,Sukhothai,2014,7,Wet
+65,Phitsanu Lok,2014,6,Wet
+66,Phichit,2014,6,Wet
+67,Phetchabun,2014,6,Wet
+70,Ratchaburi,2014,1,Wet
+71,Kanchanaburi,2014,5,Wet
+72,Suphan Buri,2014,6,Wet
+73,Nakhon Prathom,2014,3,Wet
+74,Samut Sakhon,2014,3,Wet
+75,Samut Songkham,2014,2,Wet
+76,Phetchaburi,2014,2,Wet
+77,Prachuap Khilikhan,2014,1,Wet
+80,Nakhon Si Thammarat,2014,1,Wet
+81,Krabi,2014,1,Wet
+82,Phang Nga,2014,1,Wet
+83,Phuket,2014,6,Wet
+84,Surat Thani,2014,1,Wet
+85,Ranong,2014,1,Wet
+86,Chumphon,2014,2,Wet
+90,Songkhla,2014,3,Wet
+91,Satun,2014,4,Wet
+92,Trang,2014,1,Wet
+93,Phatthalung,2014,1,Wet
+94,Pattani,2014,2,Wet
+95,Yala,2014,3,Wet
+96,Narathiwat,2014,3,Wet
+10,Bangkok,2015,7,Wet
+11,Samut Prakarn,2015,7,Wet
+12,Nonthaburi,2015,7,Wet
+13,Pathum Thani,2015,7,Wet
+14,Phra Nakhon Si Ayudhya,2015,7,Wet
+15,Ang Thong,2015,7,Wet
+16,Lopburi,2015,7,Wet
+17,Singburi,2015,7,Wet
+18,Chainat,2015,7,Wet
+19,Saraburi,2015,7,Wet
+20,Chonburi,2015,7,Wet
+21,Rayong,2015,4,Wet
+22,Chanthaburi,2015,3,Wet
+23,Trat,2015,3,Wet
+24,Chachoengsao,2015,7,Wet
+25,Prachinburi,2015,7,Wet
+26,Nakhon Nayok,2015,7,Wet
+27,Srakaeo,2015,8,Wet
+30,Nakhon Ratchasima,2015,7,Wet
+31,Burirum,2015,9,Wet
+32,Surin,2015,15,Wet
+33,Sisaket,2015,13,Wet
+34,Ubon Ratchathani,2015,9,Wet
+35,Yasothon,2015,12,Wet
+36,Chaiyaphum,2015,6,Wet
+37,Amnaj Charoen,2015,12,Wet
+38,Bung kan,2015,7,Wet
+39,Nong Bua Lamphu,2015,7,Wet
+40,Khon Kaen,2015,8,Wet
+41,Udon Thani,2015,10,Wet
+42,Loei,2015,7,Wet
+43,Nong Khai,2015,8,Wet
+44,Mahasarakham,2015,20,Wet
+45,Roi Et,2015,15,Wet
+46,Kalasin,2015,20,Wet
+47,Sakon Nakhon,2015,20,Wet
+48,Nakhon Phanom,2015,20,Wet
+49,Mukdahan,2015,12,Wet
+50,Chiang Mai,2015,6,Wet
+51,Lamphun,2015,6,Wet
+52,Lampang,2015,6,Wet
+53,Auttaradit,2015,6,Wet
+54,Phrae,2015,8,Wet
+55,Nan,2015,11,Wet
+56,Phayao,2015,7,Wet
+57,Chiangrai,2015,7,Wet
+58,Mae Hong Son,2015,5,Wet
+60,Nakhon Sawan,2015,7,Wet
+61,Uthai Thani,2015,4,Wet
+62,Kampaeng Phet,2015,4,Wet
+63,Tak,2015,4,Wet
+64,Sukhothai,2015,6,Wet
+65,Phitsanu Lok,2015,6,Wet
+66,Phichit,2015,6,Wet
+67,Phetchabun,2015,6,Wet
+70,Ratchaburi,2015,6,Wet
+71,Kanchanaburi,2015,4,Wet
+72,Suphan Buri,2015,7,Wet
+73,Nakhon Prathom,2015,7,Wet
+74,Samut Sakhon,2015,7,Wet
+75,Samut Songkham,2015,7,Wet
+76,Phetchaburi,2015,4,Wet
+77,Prachuap Khilikhan,2015,3,Wet
+80,Nakhon Si Thammarat,2015,2,Wet
+81,Krabi,2015,3,Wet
+82,Phang Nga,2015,1,Wet
+83,Phuket,2015,6,Wet
+84,Surat Thani,2015,2,Wet
+85,Ranong,2015,3,Wet
+86,Chumphon,2015,3,Wet
+90,Songkhla,2015,7,Wet
+91,Satun,2015,7,Wet
+92,Trang,2015,2,Wet
+93,Phatthalung,2015,7,Wet
+94,Pattani,2015,3,Wet
+95,Yala,2015,6,Wet
+96,Narathiwat,2015,8,Wet
+10,Bangkok,2016,12,Wet
+11,Samut Prakarn,2016,12,Wet
+12,Nonthaburi,2016,12,Wet
+13,Pathum Thani,2016,12,Wet
+14,Phra Nakhon Si Ayudhya,2016,12,Wet
+15,Ang Thong,2016,12,Wet
+16,Lopburi,2016,6,Wet
+17,Singburi,2016,12,Wet
+18,Chainat,2016,12,Wet
+19,Saraburi,2016,7,Wet
+20,Chonburi,2016,8,Wet
+21,Rayong,2016,8,Wet
+22,Chanthaburi,2016,6,Wet
+23,Trat,2016,6,Wet
+24,Chachoengsao,2016,8,Wet
+25,Prachinburi,2016,8,Wet
+26,Nakhon Nayok,2016,8,Wet
+27,Srakaeo,2016,3,Wet
+30,Nakhon Ratchasima,2016,3,Wet
+31,Burirum,2016,7,Wet
+32,Surin,2016,6,Wet
+33,Sisaket,2016,6,Wet
+34,Ubon Ratchathani,2016,5,Wet
+35,Yasothon,2016,6,Wet
+36,Chaiyaphum,2016,6,Wet
+37,Amnaj Charoen,2016,5,Wet
+38,Bung kan,2016,6,Wet
+39,Nong Bua Lamphu,2016,6,Wet
+40,Khon Kaen,2016,7,Wet
+41,Udon Thani,2016,6,Wet
+42,Loei,2016,6,Wet
+43,Nong Khai,2016,6,Wet
+44,Mahasarakham,2016,23,Wet
+45,Roi Et,2016,6,Wet
+46,Kalasin,2016,23,Wet
+47,Sakon Nakhon,2016,23,Wet
+48,Nakhon Phanom,2016,25,Wet
+49,Mukdahan,2016,6,Wet
+50,Chiang Mai,2016,7,Wet
+51,Lamphun,2016,7,Wet
+52,Lampang,2016,7,Wet
+53,Auttaradit,2016,7,Wet
+54,Phrae,2016,8,Wet
+55,Nan,2016,8,Wet
+56,Phayao,2016,8,Wet
+57,Chiangrai,2016,7,Wet
+58,Mae Hong Son,2016,8,Wet
+60,Nakhon Sawan,2016,12,Wet
+61,Uthai Thani,2016,8,Wet
+62,Kampaeng Phet,2016,12,Wet
+63,Tak,2016,8,Wet
+64,Sukhothai,2016,9,Wet
+65,Phitsanu Lok,2016,7,Wet
+66,Phichit,2016,12,Wet
+67,Phetchabun,2016,6,Wet
+70,Ratchaburi,2016,12,Wet
+71,Kanchanaburi,2016,8,Wet
+72,Suphan Buri,2016,12,Wet
+73,Nakhon Prathom,2016,12,Wet
+74,Samut Sakhon,2016,12,Wet
+75,Samut Songkham,2016,12,Wet
+76,Phetchaburi,2016,12,Wet
+77,Prachuap Khilikhan,2016,12,Wet
+80,Nakhon Si Thammarat,2016,4,Wet
+81,Krabi,2016,4,Wet
+82,Phang Nga,2016,4,Wet
+83,Phuket,2016,4,Wet
+84,Surat Thani,2016,4,Wet
+85,Ranong,2016,8,Wet
+86,Chumphon,2016,8,Wet
+90,Songkhla,2016,7,Wet
+91,Satun,2016,4,Wet
+92,Trang,2016,4,Wet
+93,Phatthalung,2016,4,Wet
+94,Pattani,2016,4,Wet
+95,Yala,2016,6,Wet
+96,Narathiwat,2016,6,Wet
+10,Bangkok,2017,5,Wet
+11,Samut Prakarn,2017,7,Wet
+12,Nonthaburi,2017,5,Wet
+13,Pathum Thani,2017,5,Wet
+14,Phra Nakhon Si Ayudhya,2017,6,Wet
+15,Ang Thong,2017,7,Wet
+16,Lopburi,2017,7,Wet
+17,Singburi,2017,7,Wet
+18,Chainat,2017,5,Wet
+19,Saraburi,2017,7,Wet
+20,Chonburi,2017,3,Wet
+21,Rayong,2017,3,Wet
+22,Chanthaburi,2017,3,Wet
+23,Trat,2017,3,Wet
+24,Chachoengsao,2017,6,Wet
+25,Prachinburi,2017,7,Wet
+26,Nakhon Nayok,2017,6,Wet
+27,Srakaeo,2017,7,Wet
+30,Nakhon Ratchasima,2017,7,Wet
+31,Burirum,2017,7,Wet
+32,Surin,2017,7,Wet
+33,Sisaket,2017,7,Wet
+34,Ubon Ratchathani,2017,7,Wet
+35,Yasothon,2017,7,Wet
+36,Chaiyaphum,2017,7,Wet
+37,Amnaj Charoen,2017,7,Wet
+38,Bung kan,2017,7,Wet
+39,Nong Bua Lamphu,2017,7,Wet
+40,Khon Kaen,2017,7,Wet
+41,Udon Thani,2017,7,Wet
+42,Loei,2017,7,Wet
+43,Nong Khai,2017,7,Wet
+44,Mahasarakham,2017,7,Wet
+45,Roi Et,2017,7,Wet
+46,Kalasin,2017,7,Wet
+47,Sakon Nakhon,2017,7,Wet
+48,Nakhon Phanom,2017,7,Wet
+49,Mukdahan,2017,7,Wet
+50,Chiang Mai,2017,3,Wet
+51,Lamphun,2017,3,Wet
+52,Lampang,2017,3,Wet
+53,Auttaradit,2017,4,Wet
+54,Phrae,2017,4,Wet
+55,Nan,2017,7,Wet
+56,Phayao,2017,5,Wet
+57,Chiangrai,2017,5,Wet
+58,Mae Hong Son,2017,4,Wet
+60,Nakhon Sawan,2017,5,Wet
+61,Uthai Thani,2017,4,Wet
+62,Kampaeng Phet,2017,4,Wet
+63,Tak,2017,4,Wet
+64,Sukhothai,2017,5,Wet
+65,Phitsanu Lok,2017,4,Wet
+66,Phichit,2017,4,Wet
+67,Phetchabun,2017,5,Wet
+70,Ratchaburi,2017,6,Wet
+71,Kanchanaburi,2017,4,Wet
+72,Suphan Buri,2017,7,Wet
+73,Nakhon Prathom,2017,6,Wet
+74,Samut Sakhon,2017,6,Wet
+75,Samut Songkham,2017,6,Wet
+76,Phetchaburi,2017,3,Wet
+77,Prachuap Khilikhan,2017,3,Wet
+80,Nakhon Si Thammarat,2017,6,Wet
+81,Krabi,2017,4,Wet
+82,Phang Nga,2017,4,Wet
+83,Phuket,2017,8,Wet
+84,Surat Thani,2017,4,Wet
+85,Ranong,2017,3,Wet
+86,Chumphon,2017,3,Wet
+90,Songkhla,2017,5,Wet
+91,Satun,2017,5,Wet
+92,Trang,2017,6,Wet
+93,Phatthalung,2017,4,Wet
+94,Pattani,2017,2,Wet
+95,Yala,2017,6,Wet
+96,Narathiwat,2017,6,Wet
+10,Bangkok,2018,6,Wet
+11,Samut Prakarn,2018,6,Wet
+12,Nonthaburi,2018,4,Wet
+13,Pathum Thani,2018,4,Wet
+14,Phra Nakhon Si Ayudhya,2018,4,Wet
+15,Ang Thong,2018,5,Wet
+16,Lopburi,2018,7,Wet
+17,Singburi,2018,6,Wet
+18,Chainat,2018,6,Wet
+19,Saraburi,2018,7,Wet
+20,Chonburi,2018,5,Wet
+21,Rayong,2018,5,Wet
+22,Chanthaburi,2018,5,Wet
+23,Trat,2018,5,Wet
+24,Chachoengsao,2018,4,Wet
+25,Prachinburi,2018,4,Wet
+26,Nakhon Nayok,2018,4,Wet
+27,Srakaeo,2018,4,Wet
+30,Nakhon Ratchasima,2018,7,Wet
+31,Burirum,2018,8,Wet
+32,Surin,2018,8,Wet
+33,Sisaket,2018,7,Wet
+34,Ubon Ratchathani,2018,7,Wet
+35,Yasothon,2018,8,Wet
+36,Chaiyaphum,2018,6,Wet
+37,Amnaj Charoen,2018,8,Wet
+38,Bung kan,2018,7,Wet
+39,Nong Bua Lamphu,2018,8,Wet
+40,Khon Kaen,2018,8,Wet
+41,Udon Thani,2018,10,Wet
+42,Loei,2018,8,Wet
+43,Nong Khai,2018,10,Wet
+44,Mahasarakham,2018,8,Wet
+45,Roi Et,2018,8,Wet
+46,Kalasin,2018,8,Wet
+47,Sakon Nakhon,2018,8,Wet
+48,Nakhon Phanom,2018,10,Wet
+49,Mukdahan,2018,8,Wet
+50,Chiang Mai,2018,3,Wet
+51,Lamphun,2018,6,Wet
+52,Lampang,2018,6,Wet
+53,Auttaradit,2018,7,Wet
+54,Phrae,2018,7,Wet
+55,Nan,2018,7,Wet
+56,Phayao,2018,6,Wet
+57,Chiangrai,2018,7,Wet
+58,Mae Hong Son,2018,4,Wet
+60,Nakhon Sawan,2018,6,Wet
+61,Uthai Thani,2018,5,Wet
+62,Kampaeng Phet,2018,6,Wet
+63,Tak,2018,6,Wet
+64,Sukhothai,2018,7,Wet
+65,Phitsanu Lok,2018,6,Wet
+66,Phichit,2018,6,Wet
+67,Phetchabun,2018,6,Wet
+70,Ratchaburi,2018,3,Wet
+71,Kanchanaburi,2018,5,Wet
+72,Suphan Buri,2018,5,Wet
+73,Nakhon Prathom,2018,4,Wet
+74,Samut Sakhon,2018,4,Wet
+75,Samut Songkham,2018,3,Wet
+76,Phetchaburi,2018,5,Wet
+77,Prachuap Khilikhan,2018,3,Wet
+80,Nakhon Si Thammarat,2018,5,Wet
+81,Krabi,2018,3,Wet
+82,Phang Nga,2018,3,Wet
+83,Phuket,2018,7,Wet
+84,Surat Thani,2018,2,Wet
+85,Ranong,2018,2,Wet
+86,Chumphon,2018,3,Wet
+90,Songkhla,2018,6,Wet
+91,Satun,2018,7,Wet
+92,Trang,2018,4,Wet
+93,Phatthalung,2018,6,Wet
+94,Pattani,2018,6,Wet
+95,Yala,2018,9,Wet
+96,Narathiwat,2018,9,Wet
+10,Bangkok,2019,9,Wet
+11,Samut Prakarn,2019,6,Wet
+12,Nonthaburi,2019,9,Wet
+13,Pathum Thani,2019,9,Wet
+14,Phra Nakhon Si Ayudhya,2019,9,Wet
+15,Ang Thong,2019,9,Wet
+16,Lopburi,2019,13,Wet
+17,Singburi,2019,9,Wet
+18,Chainat,2019,9,Wet
+19,Saraburi,2019,10,Wet
+20,Chonburi,2019,7,Wet
+21,Rayong,2019,6,Wet
+22,Chanthaburi,2019,6,Wet
+23,Trat,2019,4,Wet
+24,Chachoengsao,2019,6,Wet
+25,Prachinburi,2019,11,Wet
+26,Nakhon Nayok,2019,9,Wet
+27,Srakaeo,2019,8,Wet
+30,Nakhon Ratchasima,2019,13,Wet
+31,Burirum,2019,16,Wet
+32,Surin,2019,16,Wet
+33,Sisaket,2019,15,Wet
+34,Ubon Ratchathani,2019,16,Wet
+35,Yasothon,2019,15,Wet
+36,Chaiyaphum,2019,11,Wet
+37,Amnaj Charoen,2019,16,Wet
+38,Bung kan,2019,11,Wet
+39,Nong Bua Lamphu,2019,13,Wet
+40,Khon Kaen,2019,14,Wet
+41,Udon Thani,2019,13,Wet
+42,Loei,2019,13,Wet
+43,Nong Khai,2019,16,Wet
+44,Mahasarakham,2019,14,Wet
+45,Roi Et,2019,16,Wet
+46,Kalasin,2019,15,Wet
+47,Sakon Nakhon,2019,15,Wet
+48,Nakhon Phanom,2019,15,Wet
+49,Mukdahan,2019,15,Wet
+50,Chiang Mai,2019,7,Wet
+51,Lamphun,2019,7,Wet
+52,Lampang,2019,6,Wet
+53,Auttaradit,2019,9,Wet
+54,Phrae,2019,9,Wet
+55,Nan,2019,7,Wet
+56,Phayao,2019,7,Wet
+57,Chiangrai,2019,6,Wet
+58,Mae Hong Son,2019,6,Wet
+60,Nakhon Sawan,2019,8,Wet
+61,Uthai Thani,2019,7,Wet
+62,Kampaeng Phet,2019,8,Wet
+63,Tak,2019,8,Wet
+64,Sukhothai,2019,9,Wet
+65,Phitsanu Lok,2019,8,Wet
+66,Phichit,2019,8,Wet
+67,Phetchabun,2019,11,Wet
+70,Ratchaburi,2019,5,Wet
+71,Kanchanaburi,2019,7,Wet
+72,Suphan Buri,2019,7,Wet
+73,Nakhon Prathom,2019,6,Wet
+74,Samut Sakhon,2019,6,Wet
+75,Samut Songkham,2019,5,Wet
+76,Phetchaburi,2019,4,Wet
+77,Prachuap Khilikhan,2019,3,Wet
+80,Nakhon Si Thammarat,2019,5,Wet
+81,Krabi,2019,5,Wet
+82,Phang Nga,2019,3,Wet
+83,Phuket,2019,6,Wet
+84,Surat Thani,2019,4,Wet
+85,Ranong,2019,3,Wet
+86,Chumphon,2019,2,Wet
+90,Songkhla,2019,7,Wet
+91,Satun,2019,7,Wet
+92,Trang,2019,5,Wet
+93,Phatthalung,2019,11,Wet
+94,Pattani,2019,3,Wet
+95,Yala,2019,4,Wet
+96,Narathiwat,2019,4,Wet
+10,Bangkok,2020,,Wet
+11,Samut Prakarn,2020,,Wet
+12,Nonthaburi,2020,,Wet
+13,Pathum Thani,2020,,Wet
+14,Phra Nakhon Si Ayudhya,2020,,Wet
+15,Ang Thong,2020,,Wet
+16,Lopburi,2020,,Wet
+17,Singburi,2020,,Wet
+18,Chainat,2020,,Wet
+19,Saraburi,2020,,Wet
+20,Chonburi,2020,,Wet
+21,Rayong,2020,,Wet
+22,Chanthaburi,2020,,Wet
+23,Trat,2020,,Wet
+24,Chachoengsao,2020,,Wet
+25,Prachinburi,2020,,Wet
+26,Nakhon Nayok,2020,,Wet
+27,Srakaeo,2020,,Wet
+30,Nakhon Ratchasima,2020,,Wet
+31,Burirum,2020,,Wet
+32,Surin,2020,,Wet
+33,Sisaket,2020,,Wet
+34,Ubon Ratchathani,2020,,Wet
+35,Yasothon,2020,,Wet
+36,Chaiyaphum,2020,,Wet
+37,Amnaj Charoen,2020,,Wet
+38,Bung kan,2020,,Wet
+39,Nong Bua Lamphu,2020,,Wet
+40,Khon Kaen,2020,,Wet
+41,Udon Thani,2020,,Wet
+42,Loei,2020,,Wet
+43,Nong Khai,2020,,Wet
+44,Mahasarakham,2020,,Wet
+45,Roi Et,2020,,Wet
+46,Kalasin,2020,,Wet
+47,Sakon Nakhon,2020,,Wet
+48,Nakhon Phanom,2020,,Wet
+49,Mukdahan,2020,,Wet
+50,Chiang Mai,2020,,Wet
+51,Lamphun,2020,,Wet
+52,Lampang,2020,,Wet
+53,Auttaradit,2020,,Wet
+54,Phrae,2020,,Wet
+55,Nan,2020,,Wet
+56,Phayao,2020,,Wet
+57,Chiangrai,2020,,Wet
+58,Mae Hong Son,2020,,Wet
+60,Nakhon Sawan,2020,,Wet
+61,Uthai Thani,2020,,Wet
+62,Kampaeng Phet,2020,,Wet
+63,Tak,2020,,Wet
+64,Sukhothai,2020,,Wet
+65,Phitsanu Lok,2020,,Wet
+66,Phichit,2020,,Wet
+67,Phetchabun,2020,,Wet
+70,Ratchaburi,2020,,Wet
+71,Kanchanaburi,2020,,Wet
+72,Suphan Buri,2020,,Wet
+73,Nakhon Prathom,2020,,Wet
+74,Samut Sakhon,2020,,Wet
+75,Samut Songkham,2020,,Wet
+76,Phetchaburi,2020,,Wet
+77,Prachuap Khilikhan,2020,,Wet
+80,Nakhon Si Thammarat,2020,,Wet
+81,Krabi,2020,,Wet
+82,Phang Nga,2020,,Wet
+83,Phuket,2020,,Wet
+84,Surat Thani,2020,,Wet
+85,Ranong,2020,,Wet
+86,Chumphon,2020,,Wet
+90,Songkhla,2020,,Wet
+91,Satun,2020,,Wet
+92,Trang,2020,,Wet
+93,Phatthalung,2020,,Wet
+94,Pattani,2020,,Wet
+95,Yala,2020,,Wet
+96,Narathiwat,2020,,Wet
