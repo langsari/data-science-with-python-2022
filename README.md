@@ -11,9 +11,13 @@ CRISP-DM have 6 step
 
 My topic Thailand Happiness
 
-หัวข้อเกี่ยวกับความสุขของคนไทย โดยวัดจากการดู เศรษฐกิจ สุขภาพ ครอบครัว เสรีภาพ ความไว้วางใจ(การทุจริตของรัฐบาล) ความเอื้ออาทร ส่วนที่เหลือ
+หัวข้อเกี่ยวกับความสุขของคนไทย 
 
-เเล้วมาเอารวมเป็นสกอร์รวม เเละเอาสกอร์รวมมาดูว่าอันดับที่เท่าไหร่
+โดยวัดจากการดู 
+'Life Ladder', 'Log GDP per capita', 'Social support','Healthy life expectancy at birth', 'Freedom to make life choices',
+
+
+'Generosity', 'Perceptions of corruption', 'Positive affect','Negative affect'
 
 
 
