@@ -18,7 +18,9 @@
 
 เป็นไฟล์Excel 
 
-3.
+3.Data Preparation
+------
+
 
 
 
