@@ -2,6 +2,10 @@
 ------
 ### Thailand Happiness
 -----
+*Installation
+    *
+-----
+
 1.Business understand
 ------
 ต้องการรู้สติเกี่ยวกับความสุขของคนไทยเเละต้องการเเบ่งกลุ่มโดยจากการวัดในด้านๆต่างของข้อมูล
@@ -14,7 +18,7 @@
 
 2.Data understand
 ------
-ข้อมูลเอาจาก https://worldhappiness.report/ed/2021/#appendices-and-data 
+ข้อมูลเอาจาก[https://worldhappiness.report/]( https://worldhappiness.report/ed/2021/#appendices-and-data )
 
 เป็นไฟล์Excel 
 
