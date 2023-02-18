@@ -18,7 +18,7 @@
 
 2.Data understand
 ------
-ข้อมูลเอาจาก[https://worldhappiness.report/]( https://worldhappiness.report/ed/2021/#appendices-and-data )
+ข้อมูลเอาจาก[worldhappiness.report]( https://worldhappiness.report/ed/2021/#appendices-and-data )
 
 เป็นไฟล์Excel 
 
