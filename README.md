@@ -2,8 +2,16 @@
 ------
 ### Thailand Happiness
 -----
-*Installation
-    *
+* Installation
+    * Python v.3
+    * Python libraries:
+        * sklearn.
+        * Pandas.
+        * numpy.
+        * seaborn
+        * matplotlib.
+        * datetime.
+        * yellowbrick.
 -----
 
 1.Business understand
