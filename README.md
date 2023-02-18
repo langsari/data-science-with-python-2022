@@ -16,59 +16,56 @@
 
 ### 1.Business understand
 ------
-ต้องการรู้สติเกี่ยวกับความสุขของคนไทยเเละต้องการเเบ่งกลุ่มโดยจากการวัดในด้านๆต่างของข้อมูล
+Want to become conscious about the happiness of Thai people and 
 
-เช่น 'Life Ladder', 'Log GDP per capita', 'Social support', 'Healthy life expectancy at birth', 
-
-'Freedom to make life choices','Generosity', 'Perceptions of corruption', 'Positive affect',
-
- 'Negative affect' เป็นต้น 
+want to classify by measuring different aspects of the data.
 
 -----
 ### 2.Data understand
 ------
-ข้อมูลเอาจาก[worldhappiness.report]( https://worldhappiness.report/ed/2021/#appendices-and-data )
+Information taken from[worldhappiness.report]( https://worldhappiness.report/ed/2021/#appendices-and-data )
 
-เป็นไฟล์Excel 
+as an Excel file
 
 -----
 ### 3.Data Preparation
 ------
-ในข้อมูลที่เว็บได้ให้มาหลายประเทศ
+In the information that the website has provided in many countries
 
--ขั้นแรกเอาประเทศอื่นออกเเละเลือกเเค่ข้อมูลของประเทศไทย
+-First remove other countries and select only Thailand data.
 
--ขั้นสองเอาคอลัมปีเอามาเป็นindexโดยใช้Date time
+-Second step, use the year column as index by using Date time.
 
--ขั้นสามเปลี่ยนชื่อคอมลัมที่มีช่องว่างระว่างชื่อให้เเทนด้วย"_"
+-Third step, change the column name with a space between the name and replace it with "_".
 
--ขั้นสี่ เช็คmisiing value
-
+-The fourth step, check the misiing value
 -----
 ### 4.Modeliing
 -----
--เอาข้อมูลที่ทำความสะอาดเเล้วมาtransform
+-Take the cleaned data to transform
 
--เอามาดูคะเเนนของการเเบ่งกลุ่ม(สังเกตุได้เลยการเเบ่งเป็น2กลุ่มจะได้คะเเนนมากที่สุด)
+-Take a look at the score of dividing into groups (observe that dividing into 2 groups will get the most points)
 
--เริ่มทำโมเดลโดยเอาคอลัมที่อยากจะเอามาเทรนหรือใช้ในการทำโมเดล
+-Start modeling by taking columns that you want to train or use in modeling.
 
--เอามาtransformข้อมูลอีกรอบ
+-Take it to transform the data again.
 
--เอาข้อมูลที่transformมาใส่ในโมเดล 
+-Put the transformed data into the model
 
--โมเดลที่จะทำคือโมเดลเเบ่งcluster โดยทำเป็น2cluster เพราะว่า คะเเนนเยอะสุด
+-The model to be done is the cluster division model. 
 
-= ผลลัพท์ที่คือ [0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+  by doing 2cluster because it gets the most points
 
-clusterเเรก = 0 กลุ่มของปี2006 ถึง 2015
+=the result that is [0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
 
-culusterสอง =1  กลุ่ม2016 ถึง 2020
+first cluster = 0 clusters from 2006 to 2015
+
+culustertwo=1 group 2016 to 2020
 
 ----
 ### 5.Evalution
 ----
-วัดความเเม่นยำของโมเดลที่ได้คือ  0.29 หรือ 29% เต็ม100
+Measure the accuracy of the resulting model is 0.29 or 29% out of 100.
 
 
 
