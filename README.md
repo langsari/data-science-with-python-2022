@@ -6,9 +6,11 @@
 ------
 ต้องการรู้สติเกี่ยวกับความสุขของคนไทยเเละต้องการเเบ่งกลุ่มโดยจากการวัดในด้านๆต่างของข้อมูล
 
-เช่น 'Life Ladder', 'Log GDP per capita', 'Social support', 'Healthy life expectancy at birth', 'Freedom to make life choices','Generosity', 
+เช่น 'Life Ladder', 'Log GDP per capita', 'Social support', 'Healthy life expectancy at birth', 
 
-'Perceptions of corruption', 'Positive affect', 'Negative affect' เป็นต้น 
+'Freedom to make life choices','Generosity', 'Perceptions of corruption', 'Positive affect',
+
+ 'Negative affect' เป็นต้น 
 
 2.Data understand
 ------
