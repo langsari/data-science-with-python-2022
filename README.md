@@ -30,6 +30,10 @@
 
 -ขั้นสี่ เช็คmisiing value
 
+4.Modeliing
+-----
+
+
 
 
 
