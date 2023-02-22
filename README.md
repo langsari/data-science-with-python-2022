@@ -2,6 +2,9 @@
 ------
 ### Thailand Happiness
 -----
+![Alt text](image/1.png)
+
+
 * Installation
     * Python v.3
     * Python libraries:
@@ -13,9 +16,12 @@
         * datetime.
         * yellowbrick.
 -----
+<<<<<<< Updated upstream
 
 ![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/1.png?raw=true)
 
+=======
+>>>>>>> Stashed changes
 ### 1.Business understand
 ------
 To become conscious about the happiness of Thai people and 
@@ -68,7 +74,6 @@ culustertwo=1 group 2016 to 2020
 ### 5.Evaluation
 ----
 To measure the accuracy of the resulting model is 0.29 or 29% out of 100.
-
 
 
 
