@@ -2,7 +2,7 @@
 ------
 ### Thailand Happiness
 -----
-![Alt text](image/1.png)
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/1.png?raw=true)
 
 
 * Installation
@@ -16,12 +16,6 @@
         * datetime.
         * yellowbrick.
 -----
-<<<<<<< Updated upstream
-
-![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/1.png?raw=true)
-
-=======
->>>>>>> Stashed changes
 ### 1.Business understand
 ------
 To become conscious about the happiness of Thai people and 
