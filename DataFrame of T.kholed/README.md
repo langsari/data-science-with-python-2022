@@ -8,16 +8,15 @@
         * seaborn.
         * Pandas.
         * numpy.
-        * Series,DataFrame.
+        * Series,DataFrame from pandas.
         * matplotlib.pyplot.
         * plotly.express.
         * streamlit.
         * plotly.graph_objs.
         * plotly.offline.
-
------
-
-<!-- [![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com) -->
+        * interact from ipywidgets .
+        * make_subplots from plotly.subplots.
+        * Axes3D from mpl_toolkits.mplot3d.
 
 -----
 ### 1.Business Understand
@@ -64,7 +63,12 @@ I decide to:
     - 6 Plotly(Pie Chart)
     - 7 Plotly(Scatter Plot)
     - 8 Plotly(Scatter 3D plot)
-    - 9 Bar 3D (Heatmap)
+- Then i save all of this in two type of file.
+    - For Basic i save it with image.png.
+    - For Advanced i save it with plotly.html.
+- I output all of this on webpage in one html file name 'Teaher Kholed Dashboard.html'
+
+
 
 ----
 ### 5.Evaluation
