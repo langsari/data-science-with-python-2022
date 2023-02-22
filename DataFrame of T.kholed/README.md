@@ -57,11 +57,14 @@ I decide to:
     - 4 Scatter plot
 - For an Advanced I use
     - 1 Scatter 3D
-    - 2 Widget
-    - 3 Plotly(Line Chart)
-    - 4 Plotly(Bar Chart)
-    - 5 Plotly(Pie Chart)
-    - 6 Plotly(Scatter Plot)
+    - 2 Bar 3D (Heatmap)
+    - 3 Widget
+    - 4 Plotly(Line Chart)
+    - 5 Plotly(Bar Chart)
+    - 6 Plotly(Pie Chart)
+    - 7 Plotly(Scatter Plot)
+    - 8 Plotly(Scatter 3D plot)
+    - 9 Bar 3D (Heatmap)
 
 ----
 ### 5.Evaluation
