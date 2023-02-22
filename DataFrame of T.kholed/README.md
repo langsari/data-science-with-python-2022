@@ -16,6 +16,10 @@
         * plotly.offline.
 
 -----
+
+<!-- [![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com) -->
+
+-----
 ### 1.Business Understand
 -----
 To explain about Teacher Kholed Langsari That how is his work going.
@@ -44,6 +48,20 @@ I decide to:
 -----
 
 - took the Data that already preparation to make an a Dashboard.
+- I decide to make 2 Type of Dashboard Basic And Advanced.
+- I Start by Basic first.
+- For an Basic I use 3 chart and 1 plot
+    - 1 Line Chart
+    - 2 Bar Chart
+    - 3 Pie Chart
+    - 4 Scatter plot
+- For an Advanced I use
+    - 1 Scatter 3D
+    - 2 Widget
+    - 3 Plotly(Line Chart)
+    - 4 Plotly(Bar Chart)
+    - 5 Plotly(Pie Chart)
+    - 6 Plotly(Scatter Plot)
 
 ----
 ### 5.Evaluation
