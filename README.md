@@ -14,6 +14,8 @@
         * yellowbrick.
 -----
 
+[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
+
 ### 1.Business understand
 ------
 To become conscious about the happiness of Thai people and 
@@ -67,7 +69,7 @@ culustertwo=1 group 2016 to 2020
 ----
 To measure the accuracy of the resulting model is 0.29 or 29% out of 100.
 
-
+[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
 
 
 
