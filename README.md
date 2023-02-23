@@ -2,7 +2,16 @@
 ------
 ### Thailand Happiness
 -----
+
+### Overview
+
+This is a life cycle project using crisp-dm as the process to do this.
+
+The objective of this project is to segment the people in the Thai happiness data as a guideline to solve the problem.
+
+-----
 ![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/1.png?raw=true)
+
 
 
 * Installation
@@ -15,6 +24,8 @@
         * matplotlib.
         * datetime.
         * yellowbrick.
+
+# Methodology
 -----
 ### 1.Business understand
 ------
@@ -44,6 +55,9 @@ In the information that the website has provided in many countries:
 -----
 ### 4.Modeliing
 -----
+model
+ -[Silhouette](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_analysis_of_silhouette_score.htm)
+
 -Take the cleaned data to transform
 
 -Take a look at the score of dividing into groups (observe that dividing into 2 groups will get the most points)
