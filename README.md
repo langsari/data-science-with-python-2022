@@ -26,7 +26,7 @@ The objective of this project is to segment the people in the Thai happiness dat
         * yellowbrick.
 
 # Methodology
------
+
 ### 1.Business understand
 ------
 To become conscious about the happiness of Thai people and 
@@ -39,6 +39,8 @@ want to classify by measuring different aspects of the data.
 Information taken from[worldhappiness.report]( https://worldhappiness.report/ed/2021/#appendices-and-data )
 
 as an Excel file
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/2.png?raw=true)
+
 
 -----
 ### 3.Data Preparation
@@ -46,7 +48,7 @@ as an Excel file
 In the information that the website has provided in many countries:
 
 -First remove other countries and select only Thailand data
-
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/3.png?raw=true)
 -Second step, use the year column as index by using Date time
 
 -Third step, change the column name with a space between the name and replace it with "_"
