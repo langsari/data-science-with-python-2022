@@ -65,45 +65,50 @@ In the information that the website has provided in many countries:
 ### 4.Modeliing
 -----
 model
- -[Silhouette](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_analysis_of_silhouette_score.htm)
- -[Silhouette-youtube](https://youtu.be/Ritq16Iw7XQ)
+
+   ->[Silhouette](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_analysis_of_silhouette_score.htm)
+
+  ->[Silhouette-youtube](https://youtu.be/Ritq16Iw7XQ)
+
 -Take the cleaned data to transform
 
-![Alt text]()
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/15.png?raw=true)
 
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/6.png?raw=true)
 
 -Take a look at the score of dividing into groups (observe that dividing into 2 groups will get the most points)
 
-![Alt text]()
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/7.png?raw=true)
 
--Start modeling by taking columns that you want to train or use in modeling
+-Start modeling by taking columns that you want to train or use in modeling and Take it to transform the data again
 
-![Alt text]()
-
--Take it to transform the data again
-
-![Alt text]()
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/16.png?raw=true)
 
 -Put the transformed data into the model
 
-![Alt text]()
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/9.png?raw=true)
 
 -The model to be done is the cluster division model
 
   by doing 2cluster because it gets the most points
 
-![Alt text]()
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/10.png?raw=true)
+
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/11.png?raw=true)
 
 first cluster = 0 clusters from 2006 to 2015
 
 culustertwo=1 group 2016 to 2020
+
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/12.png?raw=true)
+
 
 ----
 ### 5.Evaluation
 ----
 To measure the accuracy of the resulting model is 0.29 or 29% out of 100.
 
-![Alt text]()
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/13.png?raw=true)
 
 
 
