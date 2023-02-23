@@ -48,12 +48,19 @@ as an Excel file
 In the information that the website has provided in many countries:
 
 -First remove other countries and select only Thailand data
-![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/3.png?raw=true)
+
 -Second step, use the year column as index by using Date time
 
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/3..png?raw=true)
+
 -Third step, change the column name with a space between the name and replace it with "_"
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/4.png?raw=true)
 
 -The fourth step, check the misiing value
+
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/5.png?raw=true)
+
+
 -----
 ### 4.Modeliing
 -----
