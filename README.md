@@ -69,19 +69,30 @@ model
 
 -Take the cleaned data to transform
 
+![Alt text]()
+
+
 -Take a look at the score of dividing into groups (observe that dividing into 2 groups will get the most points)
+
+![Alt text]()
 
 -Start modeling by taking columns that you want to train or use in modeling
 
+![Alt text]()
+
 -Take it to transform the data again
 
+![Alt text]()
+
 -Put the transformed data into the model
+
+![Alt text]()
 
 -The model to be done is the cluster division model
 
   by doing 2cluster because it gets the most points
 
-=the result that is [0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+![Alt text]()
 
 first cluster = 0 clusters from 2006 to 2015
 
@@ -92,7 +103,7 @@ culustertwo=1 group 2016 to 2020
 ----
 To measure the accuracy of the resulting model is 0.29 or 29% out of 100.
 
-
+![Alt text]()
 
 
 
