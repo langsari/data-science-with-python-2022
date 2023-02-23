@@ -110,9 +110,9 @@ To measure the accuracy of the resulting model is 0.29 or 29% out of 100.
 
 ![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/13.png?raw=true)
 
+heatmap
 
-
-
+![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/14.png?raw=true)
 
 
 
