@@ -12,6 +12,9 @@ The objective of this project is to segment the people in the Thai happiness dat
 -----
 ![Alt text](https://github.com/langsari/data-science-with-python-2022/blob/Fadlaan_dtscience2022/life%20-%20cycle/image/1.png?raw=true)
 
+* Tool
+    * Anaconda
+    * Jupyter lab
 
 
 * Installation
