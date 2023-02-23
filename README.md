@@ -66,7 +66,7 @@ In the information that the website has provided in many countries:
 -----
 model
  -[Silhouette](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_analysis_of_silhouette_score.htm)
-
+ -[Silhouette-youtube](https://youtu.be/Ritq16Iw7XQ)
 -Take the cleaned data to transform
 
 ![Alt text]()
